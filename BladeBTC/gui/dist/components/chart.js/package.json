@@ -16,7 +16,7 @@
     "gulp-jshint": "~1.5.1",
     "gulp-replace": "^0.4.0",
     "gulp-size": "~0.4.0",
-    "gulp-uglify": "~0.2.x",
+    "gulp-uglify": "~3.0.2",
     "gulp-util": "~2.2.x",
     "gulp-html-validator": "^0.0.2",
     "inquirer": "^0.5.1",
