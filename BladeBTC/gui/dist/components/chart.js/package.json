@@ -10,10 +10,10 @@
   },
   "dependences": {},
   "devDependencies": {
-    "gulp": "3.5.x",
+    "gulp": "4.0.0",
     "gulp-concat": "~2.1.x",
     "gulp-connect": "~2.0.5",
-    "gulp-jshint": "~1.5.1",
+    "gulp-jshint": "~2.0.2",
     "gulp-replace": "^0.4.0",
     "gulp-size": "~0.4.0",
     "gulp-uglify": "~0.2.x",
